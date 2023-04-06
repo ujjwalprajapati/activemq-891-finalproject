@@ -94,7 +94,7 @@ public class BitArrayBin implements Serializable {
         BitArray ba = getBitArray(index);
         if (ba != null) {
             int offset = getOffset(index);
-            if (offset >= 0) {
+            if (offset >= 0) {get
                 answer = ba.get(offset);
                 return answer;
             }

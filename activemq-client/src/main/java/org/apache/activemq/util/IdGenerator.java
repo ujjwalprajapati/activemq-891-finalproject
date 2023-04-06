@@ -135,7 +135,7 @@ public class IdGenerator {
     }
 
     /**
-     * Generate a unique id
+     * Generate a unique id as a string
      *
      * @return a unique id
      */
